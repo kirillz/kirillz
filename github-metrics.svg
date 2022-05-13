@@ -1322,7 +1322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Barre/privaxy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(work in progress) Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.</div>
@@ -1526,7 +1526,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2022, 23:13:05 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 14 May 2022, 00:10:17 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
