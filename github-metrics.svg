@@ -1322,7 +1322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adelf/acwa_book_ru</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Книга "Архитектура сложных веб-приложений. С примерами на Laravel"</div>
@@ -1514,7 +1514,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2022, 23:11:55 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 21 May 2022, 00:11:08 (timezone Europe/Moscow) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
